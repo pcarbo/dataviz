@@ -136,23 +136,23 @@ Table: (\#tab:pros-cons-pie-bar) Pros and cons of common approaches to visualizi
 ----------------------------------------------------------------------------------------
                                     Pie chart         Stacked bars      Side-by-side bars
 -----------------------------  ------------------- ------------------- -------------------
-Clearly visualizes the data             ✔                 ✔                   ✖
+Clearly visualizes the data            yes               yes                 no
 as proportions of a whole
 
-Allows easy visual comparison           ✖                 ✖                   ✔ 
+Allows easy visual comparison          no                no                  yes
 of the relative proportions 
 
-Visually emphasizes simple              ✔                 ✖                   ✖
+Visually emphasizes simple             yes               no                  no
 fractions, such as 1/2, 1/3,
 1/4
 
-Looks visually appealing                ✔                 ✖                   ✔
+Looks visually appealing               yes               no                 yes
 even for very small datasets
 
-Works well when the whole is            ✖                 ✖                   ✔ 
+Works well when the whole is           no                no                  yes
 broken into many pieces
 
-Works well for the                      ✖                 ✔                   ✖
+Works well for the                     no                yes                 no
 visualization of many sets of
 proportions or time series
 of proportions
